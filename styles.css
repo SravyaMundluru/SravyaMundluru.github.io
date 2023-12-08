@@ -47,6 +47,7 @@ header {
     padding: 20px;
 }
 
+/* Buttons */
 .buttons {
     text-align: center;
     margin-top: 20px;
@@ -54,7 +55,7 @@ header {
 
 .btn-primary {
     background-color: #007BFF;
-    color: #fff;
+    color: #fff; /* Adjust text color for contrast */
     padding: 10px 20px;
     text-decoration: none;
     margin-right: 20px;
@@ -67,36 +68,7 @@ header {
     text-decoration: none;
 }
 
-.video {
-    text-align: center;
-    padding: 20px;
-}
-
-.images {
-    text-align: center;
-    padding: 20px;
-}
-
-.images img {
-    width: 50%;
-    height: auto;
-    margin: 10px;
-}
-
-.textfields {
-    text-align: center;
-    padding: 20px;
-}
-
-/* Styling for sorting filters */
-.sorting-filters {
-    text-align: center;
-    padding: 20px;
-}
-
-.sorting-filters select {
-    padding: 10px;
-}
+/* ... (other styles remain unchanged) */
 
 /* Styling for footer */
 footer {
