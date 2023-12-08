@@ -52,21 +52,12 @@ header {
     margin-top: 20px;
 }
 
-/* Styling for primary button with improved contrast */
 .btn-primary {
     background-color: #007BFF;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
     margin-right: 20px;
-    /* Improved contrast by adjusting color */
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-/* Hover effect for better user feedback */
-.btn-primary:hover {
-    background-color: #0056b3;
-    color: #fff;
 }
 
 .btn-secondary {
